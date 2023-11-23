@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using MidtermExam2;
+
+Console.WriteLine((565).GetWords());
+
